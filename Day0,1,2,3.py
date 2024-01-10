@@ -18,6 +18,7 @@
 # s2=s+s1
 # print(s2)
 
+
 #day 2
 # def solve(meal_cost, tip_percent, tax_percent):
 #     # Write your code here
