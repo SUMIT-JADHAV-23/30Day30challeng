@@ -33,8 +33,6 @@ Title: The Alchemist
 Author: Paulo Coelho
 Price: 248
 
-
-
 @abstractmethod
 It seems like you are referring to the @abstractmethod decorator. This decorator is used to define abstract methods in abstract base classes (ABCs) in Python. 
 An abstract method is a method that is declared in the abstract class but doesn't provide an implementation. 
