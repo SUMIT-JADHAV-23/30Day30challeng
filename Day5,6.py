@@ -41,8 +41,6 @@ Each multiple n x i (where 1<i<10 ) should be printed on a new line in the form:
 # # Joining the list of strings with newline characters and printing the result
 # print('\n'.join(multiples))
 
-
-
 """
 Task - day 6
 Given a string, S, of length N  that is indexed from 0 to N-1 , 
