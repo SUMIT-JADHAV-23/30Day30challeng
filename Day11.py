@@ -50,8 +50,6 @@ if __name__ == '__main__':
 # bottom_sum = arr[i+2][j] , arr[i+2][j+1] ,arr[i+2][j+2]
 
 
-
-
 # import math
 # import os
 # import random
