@@ -14,6 +14,8 @@ The first line contains N, the size of the elements array. The second line has N
 Output Format
 You are not responsible for printing any output; the Solution class will print the value of the minimum difference instance variable.
 """
+
+
 class Difference:
     def __init__(self, a):
         self.__elements = a
