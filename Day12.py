@@ -66,7 +66,6 @@ s.printPerson()
 print("Grade:", s.calculate())
 
 
-
 """
 def __init__(self, firstName, lastName, idNumber, scores):
     self.scores = scores
