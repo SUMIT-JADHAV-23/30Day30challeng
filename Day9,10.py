@@ -21,8 +21,6 @@ if __name__ == '__main__':
     print(result)
 
 
-
-
 #The summation of an explicit sequence is denoted as a succession of additions.
 #Sum = 1+2+3+4+……………+ 97 + 98 + 99 + 100=5050
 def summation(n):
@@ -87,7 +85,6 @@ while n > 0:
     n = n // 2  # This is integer division. It returns the quotient as an integer, discarding any decimal part.
     print(n)
 print(binary_list)
-
 
 
 #max consucative one's
