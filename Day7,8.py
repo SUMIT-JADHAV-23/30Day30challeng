@@ -57,7 +57,6 @@ if __name__ == '__main__':
 
     arr = list(map(int, input().rstrip().split()))
 
-
 """
 
 Task-Day-8
@@ -78,9 +77,6 @@ On a new line for each query, print Not found if the name has no corresponding e
 otherwise, print the full name and phonenumber in the format name=phoneNumber.
 
 """
-
-
-
 
 # #for same line keys values input
 # n=int(input())
@@ -128,7 +124,6 @@ for j in range(n):
         print(query,"=",dict1[query])
     else:
         print("Not Found")
-
 
 
 import sys 
